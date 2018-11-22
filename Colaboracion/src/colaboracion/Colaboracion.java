@@ -18,6 +18,17 @@ public class Colaboracion {
         // TODO code application logic here
         //Primer commit
         //Segundo commit
+<<<<<<< OURS
+        
+        
+       // primer cambio david
+       
+       // segundo cambio david
+       
+       
+       ///cambios
+=======
+>>>>>>> THEIRS
     }
     
 }
