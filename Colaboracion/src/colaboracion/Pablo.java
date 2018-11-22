@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package colaboracion;
-//A
+//B
 /**
  *
  * @author Pablo Alonso Vazquez <pav.vigo@gmail.com>
