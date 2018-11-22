@@ -11,4 +11,5 @@ package colaboracion;
  */
 public class Leader {
     //Primer commit
+    //Segundo commit
 }
